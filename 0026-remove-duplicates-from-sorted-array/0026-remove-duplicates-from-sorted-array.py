@@ -1,6 +1,5 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        '''
         nums[:] = sorted(list(set(nums)))
         return len(nums)
         '''
@@ -12,3 +11,4 @@ class Solution(object):
                 k += 1
                 nums[k] = nums[i]  
         return k + 1      
+        '''
