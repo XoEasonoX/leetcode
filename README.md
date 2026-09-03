@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/XoEasonoX/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/XoEasonoX/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/XoEasonoX/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/XoEasonoX/leetcode/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
