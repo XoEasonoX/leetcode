@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/XoEasonoX/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/XoEasonoX/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2427-number-of-common-factors](https://github.com/XoEasonoX/leetcode/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/XoEasonoX/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/XoEasonoX/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
