@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/XoEasonoX/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/XoEasonoX/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2683-neighboring-bitwise-xor](https://github.com/XoEasonoX/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/XoEasonoX/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/XoEasonoX/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2683-neighboring-bitwise-xor](https://github.com/XoEasonoX/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 ## Enumeration
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/XoEasonoX/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
