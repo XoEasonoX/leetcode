@@ -8,8 +8,8 @@ class Solution(object):
         a = 0
         if len(nums2) % 2 != 0:
             for c in nums1:
-                a ^= c
+                a = a ^ c
         if len(nums1) % 2 != 0:
             for c in nums2:
-                a ^= c
+                a = a ^c
         return a
