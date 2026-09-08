@@ -7,8 +7,6 @@ class Solution(object):
         cur = min(nums)
         if len(nums) == 1:
             return nums[0]
-        elif len(nums) == 0:
-            return []
         else: 
             ttl = 0
             for i in range (len(nums)):
