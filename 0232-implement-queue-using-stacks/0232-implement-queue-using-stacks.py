@@ -33,10 +33,7 @@ class MyQueue(object):
         """
         :rtype: bool
         """
-        if self.outque ==[]:
-            while self.que:
-                self.outque.append(self.que.pop())
-        return self.outque == []
+        return self.que == [] and self.outque == []
         
 
 
