@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/XoEasonoX/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/XoEasonoX/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/XoEasonoX/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/XoEasonoX/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
