@@ -13,6 +13,6 @@ class Solution(object):
                 r = mid - 1
             elif nums[mid] < target:
                 l = mid + 1
-            elif nums[mid] == target:
+            else:
                 return mid
         return l
