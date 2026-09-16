@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/XoEasonoX/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/XoEasonoX/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/XoEasonoX/leetcode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2427-number-of-common-factors](https://github.com/XoEasonoX/leetcode/tree/master/2427-number-of-common-factors) |
 ## String
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/XoEasonoX/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/XoEasonoX/leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/XoEasonoX/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/XoEasonoX/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
