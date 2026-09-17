@@ -10,4 +10,4 @@ class Solution(object):
             if key not in g :
                 g[key] = [] 
             g[key].append(s)
-        return list(g.values())
+        return (g.values())
