@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/XoEasonoX/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/XoEasonoX/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/XoEasonoX/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/XoEasonoX/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/XoEasonoX/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/XoEasonoX/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2683-neighboring-bitwise-xor](https://github.com/XoEasonoX/leetcode/tree/master/2683-neighboring-bitwise-xor) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/XoEasonoX/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
