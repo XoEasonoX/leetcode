@@ -6,9 +6,7 @@
 #         self.right = right
 class Solution(object):
     def mergeTrees(self, root1, root2):
-        if root1 is None and root2 is None:
-            return None
-
+    
         if root1 is None:
             return root2
 
