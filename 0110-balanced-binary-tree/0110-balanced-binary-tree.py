@@ -12,19 +12,28 @@ class Solution(object):
         """
         if root is None:
             return 0
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+        if left == -1 or right == -1:
+            return -1
+        if abs(left - right) > 1:
+            return -1
+        return (max(left, right) + 1)
         
-        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
-    
+    """
     def isBalanced(self, root):
-        """
+        
         :type root: Optional[TreeNode]
         :rtype: bool
-        """
+        
         if root is None:
             return True
-        if self.maxDepth(root.right) - self.maxDepth(root.left) > 1 or self.maxDepth(root.left) - self.maxDepth(root.right) > 1 :
+        if abs(self.maxDepth(root.left) - self.maxDepth(root.right)) > 1:
             return False
         return(
         self.isBalanced (root.left) and
         self.isBalanced (root.right)
         )
+    """
+    def isBalanced(self, root):
+        return self.maxDepth(root) != -1
