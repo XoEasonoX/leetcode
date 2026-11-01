@@ -17,16 +17,13 @@ class Solution(object):
                 return
 
             path = path + ("->" if path else "") + str(root.val)
-
-             # 1. 判斷是否抵達葉節點
+      
             if root.left is None and root.right is None:
                 result.append(path)
                 return
 
-            # 2. 繼續探索左子樹
             findPath(root.left, path)
 
-             # 3. 繼續探索右子樹
             findPath(root.right, path)
         findPath(root, path)
         return result
