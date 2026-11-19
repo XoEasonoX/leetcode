@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/XoEasonoX/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/XoEasonoX/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/XoEasonoX/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/XoEasonoX/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/XoEasonoX/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/XoEasonoX/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/XoEasonoX/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/XoEasonoX/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/XoEasonoX/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/XoEasonoX/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -289,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/XoEasonoX/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/XoEasonoX/leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
