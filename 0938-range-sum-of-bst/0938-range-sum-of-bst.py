@@ -7,15 +7,15 @@
 class Solution(object):
     def rangeSumBST(self, root, low, high):
 
-        def isSum(root, low, high):
+        def isSum(root):
             if root is None:
                 return 0
 
-            left_sum = isSum(root.left, low, high)
-            right_sum = isSum(root.right, low, high)
+            left_sum = isSum(root.left)
+            right_sum = isSum(root.right)
 
             current = root.val if low <= root.val <= high else 0
 
             return current + left_sum + right_sum
 
-        return isSum(root, low, high)
+        return isSum(root)
