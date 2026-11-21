@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/XoEasonoX/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/XoEasonoX/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/XoEasonoX/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/XoEasonoX/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
