@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/XoEasonoX/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/XoEasonoX/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/XoEasonoX/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/XoEasonoX/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/XoEasonoX/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/XoEasonoX/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/XoEasonoX/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/XoEasonoX/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/XoEasonoX/leetcode/tree/master/0938-range-sum-of-bst) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
