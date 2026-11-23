@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/XoEasonoX/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/XoEasonoX/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/XoEasonoX/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/XoEasonoX/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/XoEasonoX/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/XoEasonoX/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/XoEasonoX/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/XoEasonoX/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/XoEasonoX/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/XoEasonoX/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/XoEasonoX/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/XoEasonoX/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/XoEasonoX/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/XoEasonoX/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
