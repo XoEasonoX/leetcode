@@ -8,15 +8,14 @@ class Solution(object):
         stack = []
         next_greater = {}
 
-        for num in nums2:
-
-            while stack and num > stack[-1]:
+        for c in nums2 : 
+            # not stack or c <= stack[-1]
+            while stack and c > stack[-1]: 
                 prev = stack.pop()
-                next_greater[prev] = num
-
-            stack.append(num)
-
-        while stack:
-            next_greater[stack.pop()] = -1
-
-        return [next_greater[num] for num in nums1]
+                next_greater[prev] = c
+            stack.append(c)
+        
+        for c in stack:
+            next_greater[c] = -1
+        
+        return [ next_greater[c] for c in nums1 ]
