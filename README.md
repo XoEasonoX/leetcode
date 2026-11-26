@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/XoEasonoX/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/XoEasonoX/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/XoEasonoX/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/XoEasonoX/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/XoEasonoX/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/XoEasonoX/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/XoEasonoX/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/XoEasonoX/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/XoEasonoX/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/XoEasonoX/leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/XoEasonoX/leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/XoEasonoX/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/XoEasonoX/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/XoEasonoX/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -315,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/XoEasonoX/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/XoEasonoX/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
